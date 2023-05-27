@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on GitHub ofc
 - 📫 How to reach me? GitHub! or contact attatechykid@gmail.com (not my personal)
 
-<!---
-AttaTechyKid/AttaTechyKid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Go to my site by clicking [here](http://attatechykid.github.io).
