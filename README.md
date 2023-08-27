@@ -1,5 +1,4 @@
-## AttaTechyKid 
-<img src="https://attatechykid.github.io/images/github/profile/PRO-git-badge-transparent.png" width="32" height="16">
+## AttaTechyKid <img src="https://attatechykid.github.io/images/github/profile/PRO-git-badge-transparent.png" width="32" height="16">
 Welcome to my profile!<br>
 ```
 I code for fun whenever I can. For fun.
