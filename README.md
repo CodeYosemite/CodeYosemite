@@ -5,7 +5,7 @@ I code for fun whenever I can. For fun.
 ```
 ***
 #### Links
-###### [RoutineHub](https://routinehub.co/user/AttaTechyKid) | [My website](https://attatechykid.github.io/) | [YouTube](https://youtube.com/@AttaTechyKid)
+###### [RoutineHub](https://routinehub.co/user/AttaTechyKid-GitHub) | [My website](https://attatechykid.github.io/) | [YouTube](https://youtube.com/@AttaTechyKid)
 
 
 
