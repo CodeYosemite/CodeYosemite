@@ -9,4 +9,4 @@ I code for fun whenever I can. For fun.
 
 
 
-###### I see you liking my profile, well check out the source code by clicking [here](https://raw.githubusercontent.com/AttaTechyKid/AttaTechyKid/main/README.md).
+###### I see you liking my profile, well check out the source code by clicking <a href="https://raw.githubusercontent.com/AttaTechyKid/AttaTechyKid/main/README.md" target="_blank">here</a>.
